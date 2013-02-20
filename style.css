@@ -1,0 +1,40 @@
+body
+{
+background-color:#2EFEF7; 
+}
+
+#header
+{
+  margin-left:auto;
+  margin-right:auto;
+  width:960px;
+  
+}
+h1{font-size: 56px;
+text-align: center;
+}
+p{
+font-size: 18px;
+text-align: left;
+}
+
+ footer{
+ position: absolute;
+ }
+
+#copyright
+{
+text-align: centre;
+}
+img{
+position: absolute;
+left:1000px;
+right: 800px;
+top: 100px;
+
+}
+iframe{
+position: absolute;
+left: 850px;
+right: 600px;
+top: 350px;}

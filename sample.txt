@@ -1,0 +1,7 @@
+<iframe title="YouTube video player" class="youtube-player" type="text/html" 
+width="450" height="300" src="http://www.youtube.com/embed/W-Q7RMpINVo">
+</iframe>
+
+
+
+http://www.asp.net/mvc/tutorials/mvc-4/getting-started-with-aspnet-mvc4/adding-a-view
